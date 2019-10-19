@@ -39,6 +39,7 @@ export const ProductionList = styled.ul`
       border-radius: 4px;
       overflow: hidden;
       margin-top: auto;
+      text-transform: uppercase;
 
       display: flex;
       align-items: center;
